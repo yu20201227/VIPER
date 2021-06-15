@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E7D5B631-3BA0-4DB4-91F7-CCBA0F2E23BC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28CF2E21-720A-49EC-948D-4CBBA9530D53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER(&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;&#xff09;/View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6970B79F-A0D9-440A-9413-B1452904C30A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER(&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;&#xff09;/Presenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "interactor"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6970B79F-A0D9-440A-9413-B1452904C30A - 2b68740e03fcd56e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VIPER_&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;_.UserPresenter.interactor.getter : Swift.Optional&lt;VIPER_&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;_.AnyInteractor&gt;"
+                  moduleName = "VIPER(&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;&#xff09;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owner/Desktop/VIPER(%E3%82%B7%E3%83%A3%E3%82%AD%E3%83%A7%E3%82%A6%EF%BC%89/VIPER(%E3%82%B7%E3%83%A3%E3%82%AD%E3%83%A7%E3%82%A6%EF%BC%89/Presenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "6970B79F-A0D9-440A-9413-B1452904C30A - c4d781f6ec028d5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VIPER_&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;_.UserPresenter.interactor.setter : Swift.Optional&lt;VIPER_&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;_.AnyInteractor&gt;"
+                  moduleName = "VIPER(&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;&#xff09;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owner/Desktop/VIPER(%E3%82%B7%E3%83%A3%E3%82%AD%E3%83%A7%E3%82%A6%EF%BC%89/VIPER(%E3%82%B7%E3%83%A3%E3%82%AD%E3%83%A7%E3%82%A6%EF%BC%89/Presenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "171">
+               </Location>
+               <Location
+                  uuid = "6970B79F-A0D9-440A-9413-B1452904C30A - ede1836b73a3ae32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VIPER_&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;_.UserPresenter.interactor.modify : Swift.Optional&lt;VIPER_&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;_.AnyInteractor&gt;"
+                  moduleName = "VIPER(&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;&#xff09;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owner/Desktop/VIPER(%E3%82%B7%E3%83%A3%E3%82%AD%E3%83%A7%E3%82%A6%EF%BC%89/VIPER(%E3%82%B7%E3%83%A3%E3%82%AD%E3%83%A7%E3%82%A6%EF%BC%89/Presenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "6970B79F-A0D9-440A-9413-B1452904C30A - c3c61ddb57854cb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VIPER_&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;_.UserPresenter.interactor.modify : Swift.Optional&lt;VIPER_&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;_.AnyInteractor&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "VIPER(&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;&#xff09;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owner/Desktop/VIPER(%E3%82%B7%E3%83%A3%E3%82%AD%E3%83%A7%E3%82%A6%EF%BC%89/VIPER(%E3%82%B7%E3%83%A3%E3%82%AD%E3%83%A7%E3%82%A6%EF%BC%89/Presenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "10">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29F94C12-B393-40CA-9724-C6CC6F3F2058"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER(&#x30b7;&#x30e3;&#x30ad;&#x30e7;&#x30a6;&#xff09;/View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "update(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
